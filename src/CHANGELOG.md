@@ -1,5 +1,11 @@
 # viem
 
+## 2.21.18
+
+### Patch Changes
+
+- [#2811](https://github.com/wevm/viem/pull/2811) [`03df7fbe`](https://github.com/wevm/viem/commit/03df7fbe0da3332a3ceee645d7ec6ede2a832010) Thanks [@shazarre](https://github.com/shazarre)! - Fixed Celo maxFeePerGas calculation for fee currency transactions.
+
 ## 2.21.17
 
 ### Patch Changes
